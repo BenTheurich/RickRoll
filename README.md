@@ -3,7 +3,7 @@ An Android app that sends Rickroll messages through SMS.
 
 <img src="https://user-images.githubusercontent.com/81211973/147593818-19e98dd1-e778-4969-a05b-b9278bc5c1b0.jpg" width=200 align=bottom>
 
-Simply type in the number of the person you want to Rickroll, and select the verse and chorus option (longer) or the chorus only option (shorter). 
+Simply type in the number of the person you want to Rickroll, and select the verse and chorus option (75 messages) or the chorus only option (35 messages). 
 
 Press the Rick Roll button, and the app will automate text messages from your phone number to theirs, texting the lyrics to Rick Astley'd hit song "Never Gonna Give You Up", one by one.
 
